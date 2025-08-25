@@ -1,4 +1,6 @@
 # MBA
 Aprendendo Git e Github
 
-Atualizando meu primeiro arquivo
+Atualizando meu arquivo pela primeira vez
+
+Atualizando meu arquivo pela segunda vez
